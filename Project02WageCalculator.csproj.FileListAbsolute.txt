@@ -1,0 +1,9 @@
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\bin\Debug\Project02WageCalculator.exe.config
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\bin\Debug\Project02WageCalculator.exe
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\bin\Debug\Project02WageCalculator.pdb
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\obj\Debug\Project02WageCalculator.csprojAssemblyReference.cache
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\obj\Debug\Project02WageCalculator.Form1.resources
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\obj\Debug\Project02WageCalculator.Properties.Resources.resources
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\obj\Debug\Project02WageCalculator.csproj.GenerateResource.cache
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\obj\Debug\Project02WageCalculator.exe
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_01_Simple Calculator\Project02WageCalculator\Project02WageCalculator\obj\Debug\Project02WageCalculator.pdb
